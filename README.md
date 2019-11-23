@@ -7,4 +7,4 @@ Presentation: Final_ppt
 
 Check Operating Steps for the sequence of events. 
 
-Special Thanks to Sudhir Yadav for his original work and help through out the project.  
+Special Thanks to Sudhir Yadav for his original work and help through out the project. 
