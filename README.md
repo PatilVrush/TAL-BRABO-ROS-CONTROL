@@ -4,7 +4,10 @@ TAL BRABO ROS CONTROL
 Youtube Link: https://youtu.be/Pdk7-uN2iAc
 
 
-![PCB](https://github.com/PatilVrush/IOT_Based_Control_of_Laundry_Machines/blob/master/image1.jpeg)
+![URDF](https://github.com/PatilVrush/TAL-BRABO-ROS-CONTROL/blob/master/URDF.png)
+![RES1](https://github.com/PatilVrush/TAL-BRABO-ROS-CONTROL/blob/master/results1.png)
+![RES2](https://github.com/PatilVrush/TAL-BRABO-ROS-CONTROL/blob/master/results2.png)
+
 Presentation: Final_ppt
 
 Check Operating Steps for the sequence of events. 
