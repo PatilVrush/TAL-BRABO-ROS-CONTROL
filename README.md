@@ -5,6 +5,7 @@ Youtube Link: https://youtu.be/Pdk7-uN2iAc
 
 
 ![URDF](https://github.com/PatilVrush/TAL-BRABO-ROS-CONTROL/blob/master/URDF.png)
+![ARCH](https://github.com/PatilVrush/TAL-BRABO-ROS-CONTROL/blob/master/Architecture.png)
 ![RES1](https://github.com/PatilVrush/TAL-BRABO-ROS-CONTROL/blob/master/results1.png)
 ![RES2](https://github.com/PatilVrush/TAL-BRABO-ROS-CONTROL/blob/master/results2.png)
 
